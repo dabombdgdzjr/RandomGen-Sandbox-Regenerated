@@ -3,3 +3,4 @@ This is a fork of my older project, RandomGen Sandbox. The difference between th
 
 # Feel free to use this engine for whatever you want, I really do not care.
 Or if you want, just [test it out](https://replit.com/@angrydoge/Liquid-simulation-in-terminal)
+edit: replit sucks but you can still fork it because I don't know where else to run the python.
